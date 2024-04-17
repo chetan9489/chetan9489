@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetan9489
+- 👋 Hi, I’m Chetan Chauhan
 - 👀 I’m interested in Software Development
 - 📫 You can reach me on chetanchauhan9822@gmail.com
 
