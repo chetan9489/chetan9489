@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chetan9489
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me on chetanchauhan9822@gmail.com
 
 <!---
